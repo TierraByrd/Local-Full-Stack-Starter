@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+.next/
+.env
+.env.local
+dist/
+build/
+
+# macOS system files
+.DS_Store
